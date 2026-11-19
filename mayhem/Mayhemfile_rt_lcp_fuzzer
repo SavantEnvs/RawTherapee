@@ -1,0 +1,10 @@
+project: savantenvs/RawTherapee
+target: rt_lcp_fuzzer
+
+cmds:
+  - cmd: /mayhem/rt_lcp_fuzzer @@
+    timeout: 10
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/rt_lcp_fuzzer/testsuite

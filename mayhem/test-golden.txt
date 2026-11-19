@@ -1,0 +1,302 @@
+== 460800 identify
+dump_460800.raw is a Kodak C603 image.
+
+Camera: Kodak C603 ID: 0x0
+Normalized Make/Model: =Kodak/C603= CamMaker ID: 29
+
+EXIF:
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	CurFocal: 0.0 mm
+	MaxAperture @CurFocal: f/0.0
+	FocalLengthIn35mmFormat: 0 mm
+	LensMake: 
+	Lens: 
+
+
+Makernotes:
+	DriveMode: -1
+	FocusMode: -1
+	MeteringMode: -1
+	AFPoint: -1
+	ExposureMode: -1
+	ExposureProgram: -1
+	ImageStabilization: -1
+	Lens: 
+	LensFormat: 0, 	LensMount: 43, 	FocalType: 0, Undefined
+	LensFeatures_pre: 
+	LensFeatures_suf: 
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	MinAp @MinFocal: f/0.0
+	MinAp @MaxFocal: f/0.0
+	MaxAp: f/0.0
+	MinAp: f/0.0
+	CurFocal: 0.0 mm
+	CurAp: f/0.0
+	MaxAp @CurFocal: f/0.0
+	MinAp @CurFocal: f/0.0
+	TeleconverterID: 0
+	Teleconverter: 
+	AdapterID: 0
+	Adapter: 
+	AttachmentID: 0
+	Attachment: 
+
+ISO speed: 0
+Shutter:  negative value
+Aperture: f/0.0
+Focal length: 0.0 mm
+Flash exposure compensation: 0.00 EV
+Embedded ICC profile: no
+Number of raw images: 1
+Full size:    640 x 480
+Image size:   640 x 480
+Output size:  640 x 480
+Image flip: 0
+Raw colors: 3
+Makernotes WB data:               coeffs                  EVs
+
+Camera2RGB matrix (mode: 1):
+1.0000	0.0000	0.0000
+0.0000	1.0000	0.0000
+0.0000	0.0000	1.0000
+
+XYZ->CamRGB matrix:
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+
+Derived D65 multipliers: 1.000000 1.000000 1.000000
+== 460800 develop
+3bd656452bbffed1c1c0fe48c35e94a7194563898cdc268a4da59730b90b2998
+== 1581060 identify
+dump_1581060.raw is a Nikon E900 image.
+
+Camera: Nikon E900 ID: 0x0
+Normalized Make/Model: =Nikon/COOLPIX 900= CamMaker ID: 43
+
+EXIF:
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	CurFocal: 0.0 mm
+	MaxAperture @CurFocal: f/0.0
+	FocalLengthIn35mmFormat: 0 mm
+	LensMake: 
+	Lens: 
+
+
+Makernotes:
+	DriveMode: -1
+	FocusMode: -1
+	MeteringMode: -1
+	AFPoint: -1
+	ExposureMode: -1
+	ExposureProgram: -1
+	ImageStabilization: -1
+	Lens: 
+	LensFormat: 0, 	LensMount: 43, 	FocalType: 0, Undefined
+	LensFeatures_pre: 
+	LensFeatures_suf: 
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	MinAp @MinFocal: f/0.0
+	MinAp @MaxFocal: f/0.0
+	MaxAp: f/0.0
+	MinAp: f/0.0
+	CurFocal: 0.0 mm
+	CurAp: f/0.0
+	MaxAp @CurFocal: f/0.0
+	MinAp @CurFocal: f/0.0
+	TeleconverterID: 0
+	Teleconverter: 
+	AdapterID: 0
+	Adapter: 
+	AttachmentID: 0
+	Attachment: 
+
+ISO speed: 0
+Shutter:  negative value
+Aperture: f/0.0
+Focal length: 0.0 mm
+Flash exposure compensation: 0.00 EV
+Embedded ICC profile: no
+Number of raw images: 1
+Full size:   1305 x 969
+Image size:  1287 x 963
+Output size: 1287 x 963
+Image flip: 0
+Raw colors: 4
+Filter pattern: CYMGCYMGCYMGCYMG
+Makernotes WB data:               coeffs                  EVs
+XYZ->CamRGB matrix:
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+
+Derived D65 multipliers: 1.208500 1.094300 1.000000 1.110300
+== 1581060 develop
+6698b7e1c9c8d72b17054c849d5e6e144db8f23cbc45b3e812a0e115c2e038e6
+== 2818048 identify
+dump_2818048.raw is a Sony XCD-SX910CR image.
+
+Camera: Sony XCD-SX910CR ID: 0x0
+Normalized Make/Model: =Sony/XCD-SX910CR= CamMaker ID: 63
+
+EXIF:
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	CurFocal: 0.0 mm
+	MaxAperture @CurFocal: f/0.0
+	FocalLengthIn35mmFormat: 0 mm
+	LensMake: 
+	Lens: 
+
+
+Makernotes:
+	DriveMode: -1
+	FocusMode: -1
+	MeteringMode: -1
+	AFPoint: -1
+	ExposureMode: -1
+	ExposureProgram: -1
+	ImageStabilization: -1
+	Lens: 
+	LensFormat: 0, 	LensMount: 44, 	FocalType: 0, Undefined
+	LensFeatures_pre: 
+	LensFeatures_suf: 
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	MinAp @MinFocal: f/0.0
+	MinAp @MaxFocal: f/0.0
+	MaxAp: f/0.0
+	MinAp: f/0.0
+	CurFocal: 0.0 mm
+	CurAp: f/0.0
+	MaxAp @CurFocal: f/0.0
+	MinAp @CurFocal: f/0.0
+	TeleconverterID: 0
+	Teleconverter: 
+	AdapterID: 0
+	Adapter: 
+	AttachmentID: 0
+	Attachment: 
+
+ISO speed: 0
+Shutter:  negative value
+Aperture: f/0.0
+Focal length: 0.0 mm
+Flash exposure compensation: 0.00 EV
+Embedded ICC profile: no
+Number of raw images: 1
+Full size:   1376 x 1024
+Image size:  1375 x 1024
+Output size: 1375 x 1024
+Image flip: 0
+Raw colors: 3
+Filter pattern: GBRGGBRGGBRGGBRG
+Makernotes WB data:               coeffs                  EVs
+
+Camera2RGB matrix (mode: 1):
+1.0000	0.0000	0.0000
+0.0000	1.0000	0.0000
+0.0000	0.0000	1.0000
+
+XYZ->CamRGB matrix:
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+
+Derived D65 multipliers: 1.000000 1.000000 1.000000
+== 2818048 develop
+3bc93b405cf9411915c6a5e10c87374e982d43d65c4a2adc23ea5e05b58e4e4f
+== 5067304 identify
+dump_5067304.raw is a AVT F-510C image.
+
+Camera: AVT F-510C ID: 0x0
+Normalized Make/Model: =AVT/F-510C= CamMaker ID: 5
+
+EXIF:
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	CurFocal: 0.0 mm
+	MaxAperture @CurFocal: f/0.0
+	FocalLengthIn35mmFormat: 0 mm
+	LensMake: 
+	Lens: 
+
+
+Makernotes:
+	DriveMode: -1
+	FocusMode: -1
+	MeteringMode: -1
+	AFPoint: -1
+	ExposureMode: -1
+	ExposureProgram: -1
+	ImageStabilization: -1
+	Lens: 
+	LensFormat: 0, 	LensMount: 0, 	FocalType: 0, Undefined
+	LensFeatures_pre: 
+	LensFeatures_suf: 
+	MinFocal: 0.0 mm
+	MaxFocal: 0.0 mm
+	MaxAp @MinFocal: f/0.0
+	MaxAp @MaxFocal: f/0.0
+	MinAp @MinFocal: f/0.0
+	MinAp @MaxFocal: f/0.0
+	MaxAp: f/0.0
+	MinAp: f/0.0
+	CurFocal: 0.0 mm
+	CurAp: f/0.0
+	MaxAp @CurFocal: f/0.0
+	MinAp @CurFocal: f/0.0
+	TeleconverterID: 0
+	Teleconverter: 
+	AdapterID: 0
+	Adapter: 
+	AttachmentID: 0
+	Attachment: 
+
+ISO speed: 0
+Shutter:  negative value
+Aperture: f/0.0
+Focal length: 0.0 mm
+Flash exposure compensation: 0.00 EV
+Embedded ICC profile: no
+Number of raw images: 1
+Full size:   2588 x 1958
+Image size:  2588 x 1958
+Output size: 2588 x 1958
+Image flip: 0
+Raw colors: 3
+Filter pattern: RGGBRGGBRGGBRGGB
+Makernotes WB data:               coeffs                  EVs
+
+Camera2RGB matrix (mode: 1):
+1.0000	0.0000	0.0000
+0.0000	1.0000	0.0000
+0.0000	0.0000	1.0000
+
+XYZ->CamRGB matrix:
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+0.0000	0.0000	0.0000
+
+Derived D65 multipliers: 1.000000 1.000000 1.000000
+== 5067304 develop
+4070fc6bb61ee5adfa0173fcbf4a5c8edd9a982154efd9d355510ed38a33f917

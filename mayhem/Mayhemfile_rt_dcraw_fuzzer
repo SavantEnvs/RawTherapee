@@ -1,0 +1,11 @@
+project: savantenvs/RawTherapee
+target: rt_dcraw_fuzzer
+
+cmds:
+  - cmd: /mayhem/rt_dcraw_fuzzer
+    libfuzzer: true
+    timeout: 10
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/rt_dcraw_fuzzer/testsuite

@@ -1,0 +1,10 @@
+project: savantenvs/RawTherapee
+target: rt_stdimage_fuzzer
+
+cmds:
+  - cmd: /mayhem/rt_stdimage_fuzzer
+    libfuzzer: true
+    timeout: 10
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
